@@ -1,0 +1,17 @@
+[
+    {
+        "upcoming": [
+            "Brasileirão/2020/Stage_2 | Brasileirão 2020 - Stage 2 | startdate=Sep 3| enddate=Oct 4 | icon=brasileirão",
+            "Japan Nationals/2020/Grand_Final |Japan Nationals 2020 - Grand Final | startdate=Aug 23| enddate=Sep 6| icon=japan nationals",
+            "Six_Major/2020/Stage_1/Europe |Six August 2020 Major - Europe |startdate=Aug 21 |enddate=Aug 23 |icon=six major",
+            "Six_Major/2020/Stage_1/North_America |Six August 2020 Major - North America |startdate=Aug 14 |enddate=Aug 16 |icon=six major"
+        ],
+        "ongoing": [
+            "6_French_League/Season_2/Regular_Season | 6 French League - Regular Season  | startdate=Jun 18 | enddate=Oct 22 | icon=6 french league",
+            "Polish_Masters/2020/Group_Stage| Polish Masters 2020 - Regular Season| startdate=May 28| enddate=Aug 27 | icon=polish masters",
+            "UK_Ireland_Nationals/Season_1/Group_Stage | UK & Ireland Nationals - S1 - Regular Season| startdate=Jul 2 | enddate=Aug 27 | icon=ukin nationals",
+            "Korean_Open/2020/Summer | Korean Open 2020 - Summer | startdate=Jul 18 | enddate=Aug 15 | icon=korea open",
+            "Circuito_Feminino/2020/Stage_2| Circuito Feminino 2020 - Stage 2| startdate=Jul 21| enddate=Aug 13| icon=circuito feminino"
+        ]
+    }
+]
